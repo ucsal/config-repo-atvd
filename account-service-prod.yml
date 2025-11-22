@@ -1,3 +1,4 @@
-message: "Mensagem do ambiente PROD"
-feature:
-  enabled: false
+account:
+  message: "Mensagem do ambiente PROD"
+  feature:
+    enabled: false

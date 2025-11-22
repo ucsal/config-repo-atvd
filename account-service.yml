@@ -1,1 +1,2 @@
-defaultMessage: "Config padrão do serviço"
+account:
+  message: "Mensagem do ambiente padrao"

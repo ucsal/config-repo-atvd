@@ -1,3 +1,4 @@
-message: "Mensagem do ambiente DEV"
-feature:
-  enabled: true
+account:
+  message: "Mensagem do ambiente DEV"
+  feature:
+    enabled: false
