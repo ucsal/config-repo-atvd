@@ -1,0 +1,3 @@
+message: "Mensagem do ambiente PROD"
+feature:
+  enabled: false
